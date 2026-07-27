@@ -8,3 +8,15 @@
 
 Or click here:
 https://colab.research.google.com/drive/1LV5fbj5rikuBG_4C1UhvNNaNEocOLMPP
+
+
+# Google Colab Notebooks
+
+## Week 1
+https://colab.research.google.com/drive/1LV5fbj5rikuBG_4C1UhvNNaNEocOLMPP
+
+## Week 2
+https://colab.research.google.com/drive/NOTEBOOK_ID_2
+
+## Week 3
+https://colab.research.google.com/drive/NOTEBOOK_ID_3
