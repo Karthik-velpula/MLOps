@@ -1,0 +1,101 @@
+Skill_Name,Curriculum_Coverage,Industry_Demand,Job_Frequency,Expert_Importance,Gap_Status
+Python,5,5,10,5,Aligned
+Java,5,4,9,5,Aligned
+C++,5,3,7,4,Aligned
+SQL,4,5,9,5,Aligned
+DBMS,5,4,8,5,Aligned
+Operating Systems,5,3,6,4,Aligned
+Computer Networks,4,4,7,4,Aligned
+Machine Learning,2,5,9,5,Gap
+Deep Learning,1,5,8,5,Gap
+Generative AI,1,5,10,5,Gap
+Cloud Computing,2,5,9,5,Gap
+AWS,2,5,9,5,Aligned
+Azure,2,4,8,4,Gap
+Docker,1,5,8,5,Gap
+Kubernetes,2,5,7,5,Gap
+DevOps,2,5,8,5,Gap
+React,3,5,8,5,Gap
+NodeJS,2,5,7,5,Gap
+Cyber Security,3,5,8,5,Aligned
+Linux,4,4,7,4,Aligned
+Git,3,4,8,4,Aligned
+Communication,5,5,9,5,Aligned
+Teamwork,5,5,8,5,Aligned
+Problem Solving,5,5,9,5,Aligned
+Data Analytics,3,5,8,5,Gap
+Python,5,5,9,5,Aligned
+Java,5,4,8,5,Aligned
+C++,5,3,6,4,Gap
+SQL,4,5,8,5,Aligned
+DBMS,5,4,7,5,Aligned
+Operating Systems,5,3,5,4,Aligned
+Computer Networks,4,4,6,4,Aligned
+Machine Learning,2,5,8,5,Gap
+Deep Learning,1,5,7,5,Gap
+Generative AI,1,5,9,5,Gap
+Cloud Computing,2,5,8,5,Aligned
+AWS,2,5,8,5,Aligned
+Azure,2,4,7,4,Gap
+Docker,1,5,7,5,Gap
+Kubernetes,2,5,6,5,Gap
+DevOps,2,5,7,5,Gap
+React,3,5,7,5,Gap
+NodeJS,2,5,6,5,Gap
+Cyber Security,3,5,7,5,Aligned
+Linux,4,4,6,4,Aligned
+Git,3,4,7,4,Gap
+Communication,5,5,8,5,Aligned
+Teamwork,5,5,7,5,Aligned
+Problem Solving,5,5,8,5,Aligned
+Data Analytics,3,5,7,5,Gap
+Python,4,5,10,5,Aligned
+Java,5,4,9,5,Aligned
+C++,5,3,7,4,Aligned
+SQL,4,5,9,5,Aligned
+DBMS,4,4,8,5,Aligned
+Operating Systems,5,3,6,4,Aligned
+Computer Networks,4,4,7,4,Aligned
+Machine Learning,2,5,9,5,Aligned
+Deep Learning,1,5,8,5,Gap
+Generative AI,1,5,10,5,Gap
+Cloud Computing,2,5,9,5,Gap
+AWS,2,5,9,5,Aligned
+Azure,1,4,8,4,Gap
+Docker,1,5,8,5,Gap
+Kubernetes,2,5,7,5,Gap
+DevOps,2,5,8,5,Gap
+React,2,5,8,5,Gap
+NodeJS,2,5,7,5,Gap
+Cyber Security,3,5,8,5,Gap
+Linux,4,4,7,4,Aligned
+Git,2,4,8,4,Gap
+Communication,5,5,9,5,Aligned
+Teamwork,5,5,8,5,Aligned
+Problem Solving,5,5,9,5,Aligned
+Data Analytics,2,5,8,5,Gap
+Python,5,4,10,5,Aligned
+Java,5,4,9,5,Aligned
+C++,5,3,7,4,Aligned
+SQL,4,5,9,5,Aligned
+DBMS,5,4,8,5,Aligned
+Operating Systems,5,3,6,4,Gap
+Computer Networks,4,4,7,4,Aligned
+Machine Learning,2,5,9,5,Gap
+Deep Learning,1,5,8,5,Gap
+Generative AI,1,5,10,5,Gap
+Cloud Computing,2,4,9,5,Gap
+AWS,2,5,9,5,Aligned
+Azure,2,4,8,4,Gap
+Docker,1,5,8,5,Gap
+Kubernetes,2,5,7,5,Gap
+DevOps,2,4,8,5,Aligned
+React,3,5,8,5,Gap
+NodeJS,2,5,7,5,Gap
+Cyber Security,3,5,8,5,Aligned
+Linux,4,4,7,4,Aligned
+Git,3,3,8,4,Gap
+Communication,5,5,9,5,Aligned
+Teamwork,5,5,8,5,Gap
+Problem Solving,5,5,9,5,Aligned
+Data Analytics,3,5,8,5,Gap
