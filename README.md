@@ -12,3 +12,12 @@ https://colab.research.google.com/drive/1LV5fbj5rikuBG_4C1UhvNNaNEocOLMPP
 
 Or click here:
 https://colab.research.google.com/drive/1KKHWIQq9NXkja-FCZ7ttCi6mOZu5MCLL
+
+
+## Week 3 [Feast]
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15KXxvectMH5phe4sJiXw5ceXV_l4gjNU?usp=sharing)
+
+Or click here:
+[https://colab.research.google.com/drive/15KXxvectMH5phe4sJiXw5ceXV_l4gjNU](https://colab.research.google.com/drive/15KXxvectMH5phe4sJiXw5ceXV_l4gjNU?usp=sharing)
+
