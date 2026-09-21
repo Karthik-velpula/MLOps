@@ -23,7 +23,12 @@ Or click here:
 
 
 
+## Week 5 [Machine Learning Model & Hyperparameter Tuning]
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vs6Z9crafcVHK3PE668A_UnKh_Xk81iN?usp=sharing)
+
+Or click here:
+[https://colab.research.google.com/drive/1vs6Z9crafcVHK3PE668A_UnKh_Xk81iN](https://colab.research.google.com/drive/1vs6Z9crafcVHK3PE668A_UnKh_Xk81iN?usp=sharing)
 
 
 
